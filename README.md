@@ -10,11 +10,11 @@ However, I also enjoy learning about and working with hardware and do so regular
 
 # 👀 I’m interested in ...
 
-- **Cool hardware** -(especially laptops Framework & system76 👌 )
-- **Mobile technology** - (Samsung and pixel stan)
-- **Deep learning**
+- **Cool Hardware** -(especially laptops Framework & system76 👌 )
+- **Mobile Technology** - (Samsung and pixel stan)
+- **Deep Learning**
 - **Augmented and virtual reality** 
-- **Sci-Fi stuff** 
+- **Sci-Fi Stuff** 
 - **Football -(Man United⚽)**
 
 
