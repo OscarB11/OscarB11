@@ -14,7 +14,7 @@ However, I also enjoy learning about and working with hardware and do so regular
 - **Mobile technology** - (Samsung and pixel stan)
 - **Deep learning**
 - **Augmented and virtual reality** 
-- **Sci-fi stuff** 
+- **Sci-Fi stuff** 
 - **Football -(Man United⚽)**
 
 
