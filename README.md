@@ -13,6 +13,7 @@ However, I also enjoy learning about and working with hardware and do so regular
 - **Cool Hardware** -(especially laptops Framework & system76 👌 )
 - **Mobile Technology** - (Samsung and pixel stan)
 - **Deep Learning**
+- **Software UI/UX**
 - **Augmented and virtual reality** 
 - **Sci-Fi Stuff** 
 - **Football -(Man United⚽)**
