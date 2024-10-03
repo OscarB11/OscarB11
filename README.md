@@ -3,7 +3,7 @@
 
 Soon a computer science Graduate and an upcoming software engineer 
 
-However, I also enjoy learning about and working with hardware and do so regularly.
+However, I also enjoy learning about and working with hardware.
 
 
 
