@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Best Oscar-Osifo
+# 👋 Hi there, 
 
 
 Soon a computer science Graduate and an upcoming software engineer 
