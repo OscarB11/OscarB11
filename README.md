@@ -8,6 +8,7 @@ However, I also enjoy learning about and working with hardware.
 
 
 
+
 # 👀 I’m interested in ...
 
 - **Cool Hardware** -(especially laptops Framework & system76 👌 )
@@ -29,6 +30,9 @@ However, I also enjoy learning about and working with hardware.
 
 
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/best-oscar-osifo-99496a215/)
+
+- @https://oscarb11.github.io/BooOs-website/
+
 
 
 <!---
